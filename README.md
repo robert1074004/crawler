@@ -26,7 +26,7 @@
     pip install matplotlib
  7.啟動專案
 
-   python three.py
+    python three.py
 
 ## 環境建置
 [python](https://www.python.org/)
