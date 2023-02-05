@@ -8,7 +8,6 @@
  
     到python官網下載(python)
 
-   [python](https://www.python.org/)
  2.打開你的 terminal，Clone 此專案至本機電腦
       
     git clone https://github.com/robert1074004/crawler
